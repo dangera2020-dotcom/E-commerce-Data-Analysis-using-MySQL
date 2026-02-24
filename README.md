@@ -15,6 +15,9 @@ The dataset contains multiple tables related to an e-commerce platform:
 -Reviews
 -Geolocation
 
+**Dataset Source**
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 **Key Analysis Performed**
 -Sales Analysis
 -Customer Analysis
